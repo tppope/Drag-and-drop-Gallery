@@ -1,0 +1,118 @@
+
+html
+{
+    position: relative;
+    min-height: 100%;
+
+}
+
+body{
+    background-color: #A9A9B0;
+
+}
+h1 {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+}
+
+img.stvorec
+{
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: black 5px 5px 5px;
+
+    width: 200px;
+    height: 200px;
+}
+
+@media (min-width: 0px) {
+    h1{
+        font-size: 16vw;
+    }
+    h2{
+        font-size: 16vw;
+    }
+    img.stvorec
+    {
+        width: 36vw;
+        height: 36vw;
+    }
+}
+
+@media (min-width: 280px) {
+    h1{
+        font-size: 3.2rem;
+    }
+    h2{
+        font-size: 3.2rem;
+    }
+    img.stvorec
+    {
+        width: 36vw;
+        height: 36vw;
+    }
+}
+
+@media (min-width: 576px) {
+    h1{
+        font-size: 5rem;
+    }
+    h2{
+        font-size: 5rem;
+    }
+    img.stvorec
+    {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+
+#headerGaleria{
+    text-align: center;
+    margin: 20px;
+}
+
+header#mainHeader{
+    padding: 20px;
+}
+
+section{
+    border-radius: 20px;
+
+    margin-bottom: 200px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    background-color: white;
+    border: solid black 3px;
+    box-shadow: black 10px 10px 10px;
+}
+
+footer
+{
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    padding: 10px;
+}
+
+
+
+div#galeria{
+    text-align: center;
+}
+
+#esc{
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    border: none;
+}

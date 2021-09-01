@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="webte1">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/7243zadanie7" local="$PROJECT_DIR$" web="/7243zadanie7" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

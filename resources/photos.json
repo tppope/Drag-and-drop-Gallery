@@ -1,0 +1,30 @@
+{
+  "photos":
+  [
+    {
+      "src": "allianz_arena_stadium.jpg",
+      "title": "Allianz Arena",
+      "description": "Hrávajú na ňom domáce zápasy mníchovské futbalové kluby TSV 1860 a FC Bayern."
+    },
+    {
+      "src": "camp_nou_stadium.jpg",
+      "title": "Camp Nou",
+      "description": "Je domáci štadión klubu FC Barcelona."
+    },
+    {
+      "src": "old_trafford_stadium.jpg",
+      "title": "Old Trafford",
+      "description": "Prezývaný The Theatre of Dreams (Divadlo snov) je anglický futbalový štadión, na ktorom svoje domáce zápasy hráva Manchester United."
+    },
+    {
+      "src": "san_siro_stadium.jpg",
+      "title": "San Siro",
+      "description": "Štadion Giuseppe Meazza známy tiež pod názvom San Siro je domáci štadión dvoch futbalových veľkoklubov: AC Miláno a Inter Miláno."
+    },
+    {
+      "src": "santiago_bernabeu_stadium.jpg",
+      "title": "Santiago Bernabeu",
+      "description": "Je domácim štadiónom klubu Real Madrid."
+    }
+  ]
+}
